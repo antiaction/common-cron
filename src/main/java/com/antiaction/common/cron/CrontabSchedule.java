@@ -231,7 +231,7 @@ public class CrontabSchedule extends CronScheduleAbstract {
 	}
 
 	/**
-	 * Parse Comma Seperated List
+	 * Parse Comma Separated List
 	 */
 	private boolean parseList(String str, byte[] destarray, int min, int max) {
 		int indexprev = 0;
